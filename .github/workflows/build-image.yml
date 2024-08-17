@@ -9,7 +9,7 @@ on:
 
 env:
   SOURCE_DIRECTORY: './APIContagem'
-  IMAGE_DOCKERHUB: 'apicontagem-dotnet6-versioning'
+  IMAGE_DOCKERHUB: 'apicontagem-dotnet7-versioning'
 
 jobs:
 
